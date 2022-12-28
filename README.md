@@ -1,13 +1,13 @@
 # Estudo replicando a interface da DIO cursos
-![image](https://user-images.githubusercontent.com/39415559/209609422-65394059-a361-4639-8963-3b6b8c8a7cbe.png)
+![image](https://user-images.githubusercontent.com/39415559/209769299-4ba5db06-7bb2-4f5d-afa9-0e1eecfe8a97.png)
 
-![image](https://user-images.githubusercontent.com/39415559/209609450-d513ab0a-d8d3-4410-a84a-b46e3096fe3f.png)
+![image](https://user-images.githubusercontent.com/39415559/209769330-d4e7ef1e-5878-4bdc-893f-1826f1bc09a3.png)
 
-![image](https://user-images.githubusercontent.com/39415559/209609468-485025ec-2bce-44ff-853e-14da2e08f5db.png)
+![image](https://user-images.githubusercontent.com/39415559/209769365-2d4bfee1-7e66-4988-b79b-83078f9e333d.png)
 
-![image](https://user-images.githubusercontent.com/39415559/209609493-1b218eae-72d0-4f6f-bd4d-d2495e84b799.png)
+![image](https://user-images.githubusercontent.com/39415559/209769460-ea85d182-cbcf-4fc3-9725-ae67ce3ca5d4.png)
 
-![image](https://user-images.githubusercontent.com/39415559/209767296-0677374a-092b-4535-a0af-264aad65c7d0.png)
+![image](https://user-images.githubusercontent.com/39415559/209769488-1e3cb9b0-8100-4063-a4fc-e36c9f6b4be1.png)
 
 # Getting Started with Create React App
 
