@@ -2,7 +2,7 @@ import React from "react";
 import { BuscarInputContainer, Container, Input, Menu, MenuRight, Row, UserPicture, Wrapper } from "./styles";
 import { Button } from '../Button';
 import { useNavigate } from "react-router-dom";
-
+import logo from "../../assets/logo-dio.png"
 export const Header = ({ autenticado }) => {
     const navigate = useNavigate();
 
@@ -16,7 +16,9 @@ export const Header = ({ autenticado }) => {
         <Wrapper>
             <Container>
                 <Row>
-                    <MenuRight href="/"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" height="26px" alt="Logo da DIO" /></MenuRight>
+                    <MenuRight href="/">
+                        <img src={logo} alt="Logo da DIO" />
+                        </MenuRight>
                     {autenticado ? (
                         <>
                             <BuscarInputContainer>

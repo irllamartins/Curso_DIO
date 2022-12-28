@@ -2,7 +2,7 @@ import { useNavigate } from "react-router-dom"
 import{ Button} from "../../components/Button"
 import { Header } from "../../components/Header"
 import { Container, TextContent, Title,TitleHighlight } from "./styles"
-
+import banner from "../../assets/banner.png"
 
  export const Home = () => {
     const navigate = useNavigate();
@@ -23,7 +23,7 @@ import { Container, TextContent, Title,TitleHighlight } from "./styles"
                     <Button title={"Começar agora"} variant="secondary" onClick={handleClinkSignIn}/>
                 </div>
                 <div>
-                    <img src="https://hermes.digitalinnovation.one/public/components/pages/home/how-it-works/emerging-technologies.png" alt="Banner sobre tecnologia"/>
+                    <img src={banner} alt="Banner sobre tecnologia"/>
                 </div>
             </Container>
         </>
