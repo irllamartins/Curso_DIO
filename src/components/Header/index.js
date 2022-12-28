@@ -7,10 +7,10 @@ export const Header = ({ autenticado }) => {
     const navigate = useNavigate();
 
     const handleClickSignIn=()=>{
-        navigate('/feed')
+        navigate('/login')
     }
     const handleClickCadastro=()=>{
-        navigate('/login')
+        navigate('/register')
     }
     return (
         <Wrapper>

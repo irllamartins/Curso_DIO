@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Irlla",
+      "email": "irlla@gmail.com",
+      "senha": "12345"
+    },
+    {
+      "id": 2,
+      "name": "Isley ",
+      "email": "isley@gmail.com",
+      "senha": "09876"
+    },
+    {
+      "id": 3,
+      "name": "João",
+      "email": "joao@gmail.com",
+      "senha": "76543"
+    }
+  ]
+}

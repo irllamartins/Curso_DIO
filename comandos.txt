@@ -1,0 +1,6 @@
+npm install react-icons/md
+npm instal @hookform/resolvers yup
+npm install react-hook-form 
+npm install  react-router-dom
+npm install -g json-server
+npm run api
